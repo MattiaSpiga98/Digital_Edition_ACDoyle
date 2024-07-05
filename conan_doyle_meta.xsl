@@ -5,7 +5,7 @@
     exclude-result-prefixes="xs tei"
     version="2.0">
     
- <xsl:output method="xml" omit-xml-declaration="yes" indent="yes"/>
+<xsl:output method="xml" omit-xml-declaration="yes" indent="yes"/>
 
     
     <xsl:template match="tei:TEI">
@@ -21,7 +21,7 @@
                                     <xsl:value-of select="count(//tei:del|//tei:add)" /> <!-- Counts all the add and del elements, and puts it in a list item -->
                                 </li>
                                 <li>Number of additions: 
-                                    <!-- count the additions only -->
+                                    <xsl:value-of select="count(//tei:add)"/>
                                 </li>
                                 <li>Number of deletions: 
                                     <!-- count the deletions only -->
