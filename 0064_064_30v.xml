@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2024</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5321" lry="7115" xml:id="facs_64">
+         <graphic url="0064_064_30v.jpeg" width="5321px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RGOTUKOCSOABTDPYHZVFNSRA&amp;fileType=view" width="5321px" height="7115px"/>
+         <zone points="4582,322 4926,322 4926,572 4582,572" rendition="TextRegion" xml:id="facs_64_r_1199">
+            <zone points="4613,289 4836,289 4836,644 4613,644" rendition="Line" xml:id="facs_64_l_1211" subtype="page-number"/>
+         </zone>
+         <zone points="238,1213 5131,1213 5131,5051 238,5051" rendition="TextRegion" xml:id="facs_64_tr_1" subtype="paragraph">
+            <zone points="235,1096 4655,1096 4655,1476 235,1476" rendition="Line" xml:id="facs_64_tr_1_tl_1"/>
+            <zone points="253,1421 5035,1421 5035,1777 253,1777" rendition="Line" xml:id="facs_64_tr_1_tl_2"/>
+            <zone points="241,1686 5083,1686 5083,2108 241,2108" rendition="Line" xml:id="facs_64_tr_1_tl_3"/>
+            <zone points="241,2036 4631,2036 4631,2397 241,2397" rendition="Line" xml:id="facs_64_tr_1_tl_4"/>
+            <zone points="205,2301 4812,2301 4812,2644 205,2644" rendition="Line" xml:id="facs_64_tr_1_tl_5"/>
+            <zone points="217,2596 4944,2596 4944,2963 217,2963" rendition="Line" xml:id="facs_64_tr_1_tl_6"/>
+            <zone points="217,2909 4926,2909 4926,3270 217,3270" rendition="Line" xml:id="facs_64_tr_1_tl_7"/>
+            <zone points="217,3198 4957,3198 4957,3553 217,3553" rendition="Line" xml:id="facs_64_tr_1_tl_8"/>
+            <zone points="253,3517 4890,3517 4890,3872 253,3872" rendition="Line" xml:id="facs_64_tr_1_tl_9"/>
+            <zone points="247,3794 5029,3794 5029,4156 247,4156" rendition="Line" xml:id="facs_64_tr_1_tl_10"/>
+            <zone points="265,4119 5089,4119 5089,4451 265,4451" rendition="Line" xml:id="facs_64_tr_1_tl_11"/>
+            <zone points="247,4402 5071,4402 5071,4776 247,4776" rendition="Line" xml:id="facs_64_tr_1_tl_12"/>
+            <zone points="247,4728 5005,4728 5005,5101 247,5101" rendition="Line" xml:id="facs_64_tr_1_tl_13"/>
+         </zone>
+         <zone points="179,5050 5079,5050 5079,6842 179,6842" rendition="TextRegion" xml:id="facs_64_r_1224" subtype="paragraph">
+            <zone points="1150,5011 4926,5011 4926,5360 1150,5360" rendition="Line" xml:id="facs_64_tr_1_tl_14"/>
+            <zone points="265,5300 3493,5300 3493,5697 265,5697" rendition="Line" xml:id="facs_64_l_1254"/>
+            <zone points="3487,5270 3704,5270 3704,5438 3487,5438" rendition="Line" xml:id="facs_64_l_1239"/>
+            <zone points="3367,5330 4698,5330 4698,5667 3367,5667" rendition="Line" xml:id="facs_64_l_1255"/>
+            <zone points="271,5601 4902,5601 4902,5956 271,5956" rendition="Line" xml:id="facs_64_tr_1_tl_16"/>
+            <zone points="265,5902 5047,5902 5047,6251 265,6251" rendition="Line" xml:id="facs_64_tr_1_tl_17"/>
+            <zone points="271,6221 5029,6221 5029,6619 271,6619" rendition="Line" xml:id="facs_64_tr_1_tl_18"/>
+            <zone points="271,6492 4872,6492 4872,6866 271,6866" rendition="Line" xml:id="facs_64_tr_1_tl_19"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_64" n="64" xml:id="img_0064"/>
+            <ab facs="#facs_64_r_1199" type="">
+               <l facs="#facs_64_l_1211" n="N001">29</l>
+            </ab>
+            <p facs="#facs_64_tr_1">
+               <l facs="#facs_64_tr_1_tl_1" n="N001">ton. Her room was at the other end of the house and she had</l>
+               <l facs="#facs_64_tr_1_tl_2" n="N002">could hear nothing of what passed. <rs type="person">Mr McFarlane</rs> had left his</l>
+               <l facs="#facs_64_tr_1_tl_3" n="N003">hat and to the best of her belief his stick in the hall. She had been</l>
+               <l facs="#facs_64_tr_1_tl_4" n="N004">awakened by the alarm of fire. Her poor dear master had</l>
+               <l facs="#facs_64_tr_1_tl_5" n="N005">certainly been murdered. Had he any enemies? Well, every</l>
+               <l facs="#facs_64_tr_1_tl_6" n="N006">man had enemies but <rs type="person">Mr Oldacre</rs> kept himself very much to</l>
+               <l facs="#facs_64_tr_1_tl_7" n="N007">himself and only met people in the way of business. She had</l>
+               <l facs="#facs_64_tr_1_tl_8" n="N008">seen the buttons and was sure that they belonged to the clothes</l>
+               <l facs="#facs_64_tr_1_tl_9" n="N009">which he had worn last night. The woodpile was very dry for it</l>
+               <l facs="#facs_64_tr_1_tl_10" n="N010">had not rained for a month. It burned like tinder and by the</l>
+               <l facs="#facs_64_tr_1_tl_11" n="N011">time she reached the spot nothing could be seen but flames. She</l>
+               <l facs="#facs_64_tr_1_tl_12" n="N012">and all the firemen smelled the burned flesh from inside it. She</l>
+               <l facs="#facs_64_tr_1_tl_13" n="N013">knew nothing of the papers or of <rs type="person">Mr Oldacre</rs>'s private affairs.</l></p>
+            <p facs="#facs_64_r_1224">
+               <l facs="#facs_64_tr_1_tl_14" n="N001">So, my dear <rs type="person">Watson</rs>, there's my report of a failure.</l>
+               <l facs="#facs_64_l_1254" n="N002">and yet - and yet - he clenched his <del>bony</del> <add>thin</add> hands in a</l>
+               <l facs="#facs_64_tr_1_tl_16" n="N005">paroxysm of conviction - 'I know it's all wrong. I feel it in</l>
+               <l facs="#facs_64_tr_1_tl_17" n="N006">my bones. There is something that has not come out and that</l>
+               <l facs="#facs_64_tr_1_tl_18" n="N007">househeeper knows it. There was a sort of sultry defiance in her</l>
+               <l facs="#facs_64_tr_1_tl_19" n="N008">eyes which only goes with guilty knowledge. However there's</l></p></div>
+      </body>
+   </text>
+</TEI>
